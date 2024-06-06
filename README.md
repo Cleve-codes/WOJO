@@ -117,3 +117,8 @@ The design focuses on motivating users through bold visuals and clear messaging.
 ## Presentation
 
 A brief figma presentation is prepared to walk through the design decisions and key elements of the landing page, highlighting the user personas, visual design choices, and the overall user experience.
+
+## Links to Figma Design
+
+- Website Mockup - https://www.figma.com/design/tSb8RImNPTBBy84KYFuVAb/Ecommerce-website?t=jkcf8o3U8KfkfRKq-1
+- Figma Presentation - https://www.figma.com/design/yvxHJbcAn3TxIIsCoOk2z5/Animated-Presentation?node-id=0-1&t=jkcf8o3U8KfkfRKq-1
