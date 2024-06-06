@@ -1,4 +1,4 @@
-# README: Landing Page Design for "FightNight" Boxing Apparel
+# Landing Page Design for "FightNight" Boxing Apparel
 
 ## Introduction
 
